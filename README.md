@@ -1,16 +1,23 @@
-## Hi there 👋
+# Fathima Nuzha M
 
-<!--
-**fathimanuzha03/fathimanuzha03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Transitioning into Cybersecurity Governance, Risk and Compliance**
 
-Here are some ideas to get you started:
+I am developing practical GRC skills through structured learning and simulated business case studies. My current focus is understanding how organisations identify risks, choose appropriate frameworks, assign accountability and communicate security decisions clearly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured work
+
+[Explore my GRC portfolio](https://github.com/fathimanuzha03/grc-analyst-portfolio)
+
+My first case study examines how a growing UK SaaS company can build a security programme and respond credibly to enterprise assurance requests. The work covers regulatory scoping, framework comparison, a phased roadmap and a proposed GRC team structure.
+
+**Current stage:** Week 01 initial drafts; learning review and validation in progress.
+
+## Learning focus
+
+- Security governance and risk ownership.
+- ISO 27001 and NIST CSF 2.0.
+- SOC 2 assurance concepts.
+- UK/EU privacy fundamentals.
+- Clear executive reporting and evidence management.
+
+I am following Michael Lawrence's [GRC Mentorship Program](https://github.com/ciphermichael/grc-mentoring-portfolio) and building a portfolio as I learn. The cases are simulations, with source attribution and review status documented in each project.
