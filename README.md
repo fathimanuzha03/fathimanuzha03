@@ -1,23 +1,21 @@
 # Fathima Nuzha M
 
-**Transitioning into Cybersecurity Governance, Risk and Compliance**
+**Cybersecurity Governance, Risk and Compliance**
 
-I am developing practical GRC skills through structured learning and simulated business case studies. My current focus is understanding how organisations identify risks, choose appropriate frameworks, assign accountability and communicate security decisions clearly.
+I am transitioning into GRC, with a focus on business risk, security governance, privacy and assurance. This portfolio brings together GRC analysis and advisory documentation, showing how business requirements can be translated into structured recommendations.
 
-## Featured work
+## Featured portfolio
 
-[Explore my GRC portfolio](https://github.com/fathimanuzha03/grc-analyst-portfolio)
+[Explore my GRC analysis and documentation](https://github.com/fathimanuzha03/grc-analyst-portfolio)
 
-My first case study examines how a growing UK SaaS company can build a security programme and respond credibly to enterprise assurance requests. The work covers regulatory scoping, framework comparison, a phased roadmap and a proposed GRC team structure.
+The TechStart case examines the compliance landscape of a growing UK SaaS company. It includes a landscape report, framework comparison, prioritised compliance strategy and proposed GRC operating model.
 
-**Current stage:** Week 01 initial drafts; learning review and validation in progress.
+## Focus areas
 
-## Learning focus
-
-- Security governance and risk ownership.
+- Governance and risk ownership.
 - ISO 27001 and NIST CSF 2.0.
-- SOC 2 assurance concepts.
-- UK/EU privacy fundamentals.
-- Clear executive reporting and evidence management.
+- SOC 2 assurance strategy.
+- UK/EU privacy considerations.
+- Executive reporting and implementation planning.
 
-I am following Michael Lawrence's [GRC Mentorship Program](https://github.com/ciphermichael/grc-mentoring-portfolio) and building a portfolio as I learn. The cases are simulations, with source attribution and review status documented in each project.
+The portfolio uses fictional business scenarios. Sources, assumptions and document status are recorded within each project.
